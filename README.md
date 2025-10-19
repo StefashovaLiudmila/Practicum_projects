@@ -1,1 +1,0 @@
-# My Practicum Project
